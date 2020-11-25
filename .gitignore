@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.iml
+local.properties
+build.log
+
+# Local Netlify folder
+.netlify
+*.meta
+
