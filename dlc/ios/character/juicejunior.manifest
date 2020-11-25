@@ -1,0 +1,106 @@
+ManifestFileVersion: 0
+CRC: 352403667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a250e1b9f43a83d8bf0169ce80c632a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82ac2e41a77070cc231548ca4a20a9b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea0a48e03565d4b65932de1d0139a37b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abceaa816113c490ba7ea78c94ca5150, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd19dcc37e6484f888025545343afdef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e83668c454b4396488081147cb5c9176, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26ea83f4621a140a4aa1e12cd8fb7cdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b6e7b2b3377f4e69a3900c671c02aaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c73c1ab94e28d244827af556dca1ed2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/Footsteps/CV_JJ_Footstep_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Appear_02.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_JJ_VO_MaskOff.asset
+- Assets/Art/Models/Characters/JuiceJr/JuiceJr_AnimController.controller
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOff_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Appear_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Walk_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/Footsteps/CV_JJ_Footstep_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/Footsteps/CV_JJ_Footstep_02.wav
+- Assets/Art/Materials/Character_JuiceJr/JuiceJR_Cloth_viewer.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/Footsteps/CV_JJ_Footstep_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOff_06.wav
+- Assets/Art/Materials/Character_JuiceJr/JuiceJR_Skin_viewer.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOff_07.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOn_05.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_JJ_VO_MaskOn.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Walk_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOn_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOff_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOff_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Walk_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Walk_07.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOn_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Walk_03.wav
+- Assets/Art/Textures/Character_JuiceJr/JuiceBox_JR_Skin.jpg
+- Assets/Prefabs/Characters/DLC/JuiceJunior.prefab
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_JJ_VO_Walk.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Appear_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Appear_06.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/Footsteps/CV_JJ_Footstep_06.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Appear_03.wav
+- Assets/Art/Models/Characters/JuiceJr/JuiceJr_CharacterViewer.FBX
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_JJ_Footstep.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/Footsteps/CV_JJ_Footstep_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOn_01.wav
+- Assets/Art/Materials/Character_JuiceJr/JuiceJR_Hair_viewer.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Walk_06.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOn_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Appear_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOff_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_Walk_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Juice Jr/VO/CV_JJ_VO_MaskOff_04.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_JJ_VO_Appear.asset
+Dependencies: []

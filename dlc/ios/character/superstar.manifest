@@ -1,0 +1,109 @@
+ManifestFileVersion: 0
+CRC: 191289974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a26930cf3a6f75922bb7a7f322c4a1b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82ac2e41a77070cc231548ca4a20a9b8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea0a48e03565d4b65932de1d0139a37b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abceaa816113c490ba7ea78c94ca5150, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd19dcc37e6484f888025545343afdef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e83668c454b4396488081147cb5c9176, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26ea83f4621a140a4aa1e12cd8fb7cdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b6e7b2b3377f4e69a3900c671c02aaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c73c1ab94e28d244827af556dca1ed2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Affirm_Mmhmm_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Multipurpose_Mask_Mmhmm_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Sup_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/Footsteps/CV_SS_Footstep_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Alright_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/Footsteps/CV_SS_Footstep_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Hey_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/Footsteps/CV_SS_Footstep_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/Footsteps/CV_SS_Footstep_02.wav
+- Assets/Art/Materials/Character_Superstar/Superstar_Pants_v.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Affirm_Mmhmm_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Affirm_Mmhmm_04.wav
+- Assets/Art/Materials/Character_Superstar/Superstar_Head_v.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Affirm_Mmhmm_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Sigh_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_OK_01.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SS_VO_MaskOff.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Emphasis_Mmhmm_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Emphasis_Mmhmm_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Yup_01.wav
+- Assets/Art/Materials/Character_Superstar/Superstar_Hat_v.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Multipurpose_Mmhmm_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Yup_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/Footsteps/CV_SS_Footstep_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Sigh_02.wav
+- Assets/Art/Materials/Character_Superstar/Superstar_Chest_v.mat
+- Assets/Art/Models/Characters/Superstar/Superstar_CharacterViewer.FBX
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/Footsteps/CV_SS_Footstep_06.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SS_VO_Appear.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Neutral_Hm_02.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SS_Footstep.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Hey_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Yup_02.wav
+- Assets/Art/Models/Characters/Superstar/Superstar_AnimController.controller
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SS_VO_Walk.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Sigh_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Hey_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Eh_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Neutral_Hm_03.wav
+- Assets/Prefabs/Characters/DLC/Superstar.prefab
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Neutral_Hm_01.wav
+- Assets/Art/Materials/Character_Superstar/Superstar_Hair_v.mat
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SS_VO_MaskOn.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Mask_Emphasis_Mmhmm_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Superstar/VO/CV_SS_VO_Multipurpose_Mask_Mmhmm_04.wav
+- Assets/Art/Materials/Character_Superstar/Superstar_Feet_v.mat
+Dependencies: []

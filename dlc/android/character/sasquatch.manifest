@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 1360091719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 139e070a7b177b91d2070a8f8d24a37b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27a955f0768242ed31ba9edbc1fa6d1b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea0a48e03565d4b65932de1d0139a37b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abceaa816113c490ba7ea78c94ca5150, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd19dcc37e6484f888025545343afdef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e83668c454b4396488081147cb5c9176, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26ea83f4621a140a4aa1e12cd8fb7cdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41c51b5a92937426a8ecd2f1333e9de3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b6e7b2b3377f4e69a3900c671c02aaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c73c1ab94e28d244827af556dca1ed2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Models/Characters/Sasquatch/Sasquatch_CharacterViewer.FBX
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOff_04.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SQ_VO_Walk.asset
+- Assets/Art/Materials/Character_Sasquatch/SasquatchTeeth_Eyes.mat
+- Assets/Art/Materials/Character_Sasquatch/SasquatchHair.mat
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SQ_VO_MaskOn.asset
+- Assets/Art/Textures/Character_Sasquatch/Sasquatch_Teeth.jpg
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_03.wav
+- Assets/Art/Materials/Character_Sasquatch/Sasquatch_Atlased.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Appear_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Appear_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOff_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOff_07.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_01.wav
+- Assets/Prefabs/Characters/DLC/Sasquatch.prefab
+- Assets/Art/Materials/Character_Sasquatch/SasquatchFur.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOn_05.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SQ_VO_MaskOff.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOn_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_06.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_07.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOff_06.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_07.wav
+- Assets/Art/Models/Characters/Sasquatch/Sasquatch_Anim_tk800.FBX
+- Assets/Art/Materials/Character_Sasquatch/Sasquatch.mat
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOff_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOff_02.wav
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SQ_Footstep.asset
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_01.wav
+- Assets/Art/Models/Characters/Sasquatch/Sasquatch_AnimController.controller
+- Assets/Art/Textures/Character_Sasquatch/Sasquatch_MaskFace.png
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOn_01.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOn_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Appear_05.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_08.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_08.wav
+- Assets/Art/Textures/Character_Sasquatch/Sasquatch_Skin_tk111.png
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOn_07.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Appear_04.wav
+- Assets/Art/Textures/Character_Sasquatch/Sasquatch_Skin_tk106.png
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOn_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Appear_02.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_Walk_04.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOff_03.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/Footsteps/CV_SQ_Footstep_06.wav
+- Assets/Art/Audio/CharacterViewer/Clips/Sasquatch/VO/CV_SQ_VO_MaskOn_06.wav
+- Assets/Art/Materials/Character_Sasquatch/Tufts.mat
+- Assets/Art/Audio/CharacterViewer/SoundDefinitions/CV_SQ_VO_Appear.asset
+- Assets/Art/Materials/Character_Sasquatch/Mask.mat
+Dependencies: []
