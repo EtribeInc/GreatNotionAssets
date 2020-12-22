@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2482235720
+CRC: 295074603
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -15,8 +15,7 @@ AssetBundleManifest:
       Name: scene-character
       Dependencies:
         Dependency_0: character/superstar
-        Dependency_1: character/juicejunior
-        Dependency_2: character/sasquatch
+        Dependency_1: character/sasquatch
     Info_4:
       Name: character/sasquatch
       Dependencies: {}
