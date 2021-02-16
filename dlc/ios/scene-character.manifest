@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2811555585
+CRC: 633286651
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b551821a308b462bc3c5243ffad1ef1
+    Hash: 434cf5144cdf0b087d4370129450d8e5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 644b843c2d15891f636c04ffa657f962
+    Hash: cc857ef4a9ee04f13455c78f54f28244
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -146,5 +146,6 @@ ClassTypes:
 Assets:
 - Assets/Scenes/ProductionScenes/scene-character.unity
 Dependencies:
-- /Volumes/SSD/Projects/etribe/GreatNotion/great_notion_flutter/unity/GreatNotionAR/../../../artifacts/dlc/ios/character/superstar
-- /Volumes/SSD/Projects/etribe/GreatNotion/great_notion_flutter/unity/GreatNotionAR/../../../artifacts/dlc/ios/character/sasquatch
+- /Volumes/SSD/Projects/etribe/GreatNotionAR/./artifacts/dlc/ios/character/sasquatch
+- /Volumes/SSD/Projects/etribe/GreatNotionAR/./artifacts/dlc/ios/character/juicejunior
+- /Volumes/SSD/Projects/etribe/GreatNotionAR/./artifacts/dlc/ios/character/superstar

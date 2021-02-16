@@ -1,24 +1,25 @@
 ManifestFileVersion: 0
-CRC: 295074603
+CRC: 4173794007
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: character/superstar
+      Name: character/sasquatch
       Dependencies: {}
     Info_1:
       Name: character/juicejunior
       Dependencies: {}
     Info_2:
-      Name: scene-climbgame
+      Name: character/superstar
       Dependencies: {}
     Info_3:
+      Name: scene-climbgame
+      Dependencies: {}
+    Info_4:
       Name: scene-character
       Dependencies:
-        Dependency_0: character/superstar
-        Dependency_1: character/sasquatch
-    Info_4:
-      Name: character/sasquatch
-      Dependencies: {}
+        Dependency_0: character/sasquatch
+        Dependency_1: character/juicejunior
+        Dependency_2: character/superstar
     Info_5:
       Name: scene-voicebox
       Dependencies: {}
