@@ -1,6 +1,6 @@
 .DS_Store
 .idea
-.manifest
+**/*.manifest
 *.iml
 local.properties
 build.log
